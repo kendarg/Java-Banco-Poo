@@ -1,85 +1,22 @@
-## 🏦 Sistema Bancario en Java (POO)
-
-Proyecto desarrollado en Java con enfoque en Programación Orientada a Objetos, estructuras de datos y buenas prácticas básicas.
-Simula el funcionamiento de un sistema bancario simple mediante consola.
-
-## 📌 Funcionalidades principales
-
-- Crear cuentas bancarias
-
-- Tipos de cuenta:
-
-   - Ahorros
-
-   - Débito
-
-- Consultar saldo
-
-- Depositar dinero
-
-- Retirar dinero
- 
-- Ver información del cliente
-
-- Validaciones básicas (montos, existencia de cuenta, etc.)
-
-
 ## 🧠 Conceptos aplicados
-- Programación Orientada a Objetos (POO)
 
- - Clases
-
- - Encapsulación
-
- - Métodos
-
-- Uso de HashMap para:
-
-  - Almacenar cuentas
-
-  - Búsqueda eficiente por identificador (correo / cédula / cuenta)
-
-- Separación por capas:
-
-  - model → lógica y entidades
-
-  - app → interacción con el usuario (Main)
-
-- Uso de Scanner
-
-- Control de flujo con:
-
-  - do-while
-
-  - switch
-
-- Buenas prácticas básicas de diseño
+- Herencia (`Animal`)
+- Interfaces (`Caminar`, `Volar`, `Nadar`)
+- Polimorfismo
+- Encapsulamiento
+- Organización por paquetes
 
 ## 🎯 Objetivo del repositorio
-Este proyecto tiene fines educativos y de portafolio, con el objetivo de:
-
-  - Reforzar POO en Java
-
-  - Comprender el uso correcto de HashMap
-
-  - Simular un sistema real de forma estructurada
-
-  - Prepararse para roles Junior Java Developer
-
- ## 🚀 Próximas mejoras
-
-- Persistencia de datos (archivos o base de datos)
-
-- Manejo de excepciones personalizado
-
-- Interfaz gráfica o API REST
-
-- Pruebas unitarias
+Este repositorio forma parte de mi proceso de aprendizaje en Java y está orientado a fortalecer mis habilidades como **Java Junior**, aplicando lógica, POO y buenas prácticas básicas.
+Ejemplo de Uso
+En el archivo Main.java 
+Perro perro = new Perro("Manolo");
+perro.caminar();
 
 ## 👤 Autor
 **Kendarg Real**  
 Estudiante de Ingeniería de Software  
-Enfoque en desarrollo Java Backend
+Enfocado en desarrollo Java
 
 ## ▶️ Cómo compilar y ejecutar
 
