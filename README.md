@@ -35,36 +35,36 @@ Simula el funcionamiento de un sistema bancario simple mediante consola.
 
 - Uso de HashMap para:
 
- - Almacenar cuentas
+  - Almacenar cuentas
 
- - Búsqueda eficiente por identificador (correo / cédula / cuenta)
+  - Búsqueda eficiente por identificador (correo / cédula / cuenta)
 
 - Separación por capas:
 
- - model → lógica y entidades
+  - model → lógica y entidades
 
- - app → interacción con el usuario (Main)
+  - app → interacción con el usuario (Main)
 
 - Uso de Scanner
 
 - Control de flujo con:
 
- - do-while
+  - do-while
 
- - switch
+  - switch
 
 - Buenas prácticas básicas de diseño
 
 ## 🎯 Objetivo del repositorio
 Este proyecto tiene fines educativos y de portafolio, con el objetivo de:
 
- - Reforzar POO en Java
+  - Reforzar POO en Java
 
- - Comprender el uso correcto de HashMap
+  - Comprender el uso correcto de HashMap
 
- - Simular un sistema real de forma estructurada
+  - Simular un sistema real de forma estructurada
 
- - Prepararse para roles Junior Java Developer
+  - Prepararse para roles Junior Java Developer
 
  ## 🚀 Próximas mejoras
 
